@@ -1,0 +1,7 @@
+kornia
+matplotlib
+numpy
+opencv-python
+PyYAML
+scipy
+torch
